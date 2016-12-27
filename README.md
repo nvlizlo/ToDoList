@@ -1,2 +1,2 @@
 # ToDoList
-Swift-project
+It was my first swift project
